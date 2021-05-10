@@ -1,0 +1,31 @@
+<QucsStudio Schematic 3.3.2>
+<Properties>
+View=0,0,877,800,1,0,0
+Grid=10,10,0
+DataSet=*.dat
+DataDisplay=*.sch
+OpenDisplay=1
+showFrame=0
+FrameText0=Titel
+FrameText1=Gezeichnet von:
+FrameText2=Datum:
+FrameText3=Revision:
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+<Rect 100 250 360 220 31 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "">
+	<Legend 10 -100 0>
+	<"pulse.Vt" "" #0000ff 0 3 0 0 0 0 "">
+</Rect>
+<Rect 530 250 330 220 31 #c0c0c0 1 00 0 0 2000 10000 1 -4.00135 20 44.0149 1 0 0 0 315 0 225 "" "" "">
+	<Legend 10 -100 0>
+	<"time2freq(pulse.Vt)" "" #ff0000 0 3 0 0 0 0 "">
+</Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
